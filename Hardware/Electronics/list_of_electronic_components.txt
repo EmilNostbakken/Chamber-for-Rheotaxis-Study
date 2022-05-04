@@ -1,0 +1,15 @@
+Arduino UNO
+LCD-Display
+LCM1602 IIC module
+12V Power Supply
+12V DC Pump
+Clear Plastic Tubing
+L298N H-Bridge
+2X Pushbuttons
+Potentiometer
+Wires
+DS18B20 Temperature Sensor
+PCB Board
+2X 220 Ohm resistor
+4.7 kOhm resistor
+5X 2-pin screw terminals
