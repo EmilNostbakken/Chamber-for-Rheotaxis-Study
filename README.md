@@ -33,3 +33,6 @@ Fill the chamber with cooled sea water (about 15°C) until the water is above th
 __Step 4: Collecting video__
 
 When satisfied with amount of animals and camera quality you start the recording on the PC. Approximately 1-2 seconds after you begin recording, start the pump using the “ON” button. When you are satisfied with the recording length you press the “OFF” button, then stop recording.
+
+
+__User Guide Video:__  https://youtu.be/hHmM167tq60
